@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Conway's Game of Life — Swing GUI
+# 🧬 Conway's Game of Life - Swing GUI
 
 ### Java · Swing · Multithreading · Simulation
 
@@ -30,6 +30,6 @@ java GameOfLife
 
 ## Files
 
-- `GameOfLife.java` — Swing GUI and threaded simulation (164 lines)
+- `GameOfLife.java` - Swing GUI and threaded simulation (164 lines)
 
 > Originally a Java Programming II (CIS 36B) project, extracted here as a standalone repo from [java-algorithms-and-concurrency](https://github.com/afshinmalek/java-algorithms-and-concurrency).
